@@ -1,7 +1,7 @@
 # 장고걸스서울 월례 세미나 (Dream. Code. Create.)
 English Speakers can read in here: [Eng](https://github.com/DjangoGirlsSeoul/seminar/blob/master/readme-en.md)
 
-마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django로 웹 사이트를 만들고 싶은 프로그래밍 입문자들에게 적합한 세미나입니다. 오셔서 코딩에 대한 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
+장고걸스서울은 마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django로 웹 사이트를 만들고 싶은 프로그래밍 입문자들에게 적합한 세미나입니다. 오셔서 코딩에 대한 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
 
 [![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2014/meltingpot/)
 
