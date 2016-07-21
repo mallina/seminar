@@ -1,5 +1,6 @@
 # 장고걸스서울 월례 세미나 (Dream. Code. Create)
-마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django로 웹 사이트를 만들고 싶은 프로그래밍 입문자들에게 적합한 세미나입니다. 오셔서 코딩에 대한 의지를 불태워보세요!
+English Speakers can read in here: [Eng](https://github.com/DjangoGirlsSeoul/seminar/blob/master/readme-en.md)
+마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django로 웹 사이트를 만들고 싶은 프로그래밍 입문자들에게 적합한 세미나입니다. 오셔서 코딩에 대한 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
 
 [![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2014/meltingpot/)
 
@@ -10,10 +11,13 @@
 
 ### 자주하는 질문 (FAQ)
 Q. 장고보이스도 참석할 수 있나요? 
-A. [장고걸스워크샵](https://djangogirls.org/)과 달리, 세미나는 장고걸스(Django Girls)와 장고보이스(Django Boys) 모두 환영합니다. 하지만 더 많은 여성분들에게 프로그래밍 학습의 기회를 드리고자, 여성분들에게 우선적으로 참석기회를 드리고 있습니다.
+A. [장고걸스워크샵](https://djangogirls.org/)과 달리, 세미나는 장고걸스(Django Girls)와 장고보이스(Django Boys) 모두 환영합니다. 하지만 더 많은 여성분들에게 프로그래밍 학습 기회를 제공하고자, 여성분들을 우선적으로 선발합니다.
 
 Q. 프로그래밍이 처음입니다. 참석할 수 있나요? 
-A. 참석하실 수 있겠으나, 좀더 유익한 세미나를 위해 사전에 장고걸스튜토리얼을 학습하시고 오시길 권장합니다. 발표 내용은 참석자분들이 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)을 숙지하셨다는 가정 하에 심화내용을 다룰 것입니다.
+A. 참석하실 수 있습니다. 하지만 좀 더 유익한 세미나를 위해 사전에 [Codecademy](https://www.codecademy.com)으로 파이썬 기초 문법을 다뤄보신 후 장고걸스튜토리얼로 블로그를 완성해보시고 오시길 권장합니다. 발표 내용은 참석자분들이 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)을 숙지하셨다는 가정 하에 심화내용을 다룰 것입니다.
+
+Q. 미리 준비해야할 게 있을까요?
+A. Django 1.9와 Python3를 다룹니다. 미리 Django와 Python3를 설치하고 오시길 바랍니다.  
 
 # 참여하기
 ### 발표자로 참석하고 싶습니다.
@@ -60,7 +64,6 @@ Dream, Code, Create 중 한 주제를 선택해서 발표해주세요.
 #### 괴롭힘 신고하기
 - 혹시 괴롭힘을 당했거나 다른 사람이 괴롭힘 당하는 것을 목격 또는 괴롭힘 당할 것으로 우려가 된다면, 즉시 코치나 운영진에게 알려주시기 바랍니다.
 - 운영진은 이런 사건에 어떻게 대처할지, 상황을 어떻게 진행 시켜야 할 지 잘 알고 있습니다. 참가자가 호텔/모임 장소의 보안요원이나 경찰 지구대에 연락하는것 뿐만 아니라 동행하는 등 행사 참석 중에 괴롭힘으로부터 안전한 느낌을 받을 수 있도록 도움을 드리겠습니다. 운영진은 당신의 행사 참석을 소중하게 생각합니다.
-
 
 ## 문의하기
 기타 궁금하신 사항은 seoul@djangogirls.org로 문의하세요.
