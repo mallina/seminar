@@ -32,9 +32,9 @@ Dream, Code, Create 중 한 주제를 선택해서 발표해주세요.
 ##### Create - 창조하라
 내가 직접 만든 프로젝트와 개발 경험을 들려주세요. 성공도 좋고 실패도 좋습니다. Django로 할 수 있는 것, 만들어 본 것을 맘껏 뽐내보세요.
 
-#### 세미나에 참석하고 싶습니다.
+### 청중으로 참석하고 싶습니다.
 장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 통해 참여링크를 전달드립니다. 
-장소 제약 상, 가장 세미나의 혜택을 필요로하는 지원자를 선발합니다. 별도로 참가 확정 메일을 보내드립니다. 
+장소 제약 상, 가장 세미나의 혜택을 필요로하는 지원자를 선발합니다. 이후 별도로 참가 확정 메일을 보내드립니다. 
 
 # 장고걸스 커뮤니티 수칙(Code of conduct)
 장고걸스서울은 [장고걸스 커뮤니티 수칙](https://djangogirls.org/pages/coc/)에 따라 모든 행사를 운영하고 있습니다.
