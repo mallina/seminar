@@ -1,31 +1,21 @@
 # 장고걸스서울 월례 세미나 (Dream. Code. Create.)
 English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/seminar/blob/master/readme-en.md)
 
-장고걸스서울은 마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django 웹 프레임워크로 웹 사이트를 만들고 싶은 프로그래밍 입문자들 대상으로 진행합니다. 장고걸스서울과 함께 코딩에 대한 열정과 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
+장고걸스서울은 [마이크로소프트 개발커뮤니티 프로그램 '멜팅팟']((https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django 웹 프레임워크로 웹 사이트를 만들고 싶은 프로그래밍 입문자들 대상으로 진행합니다. 참가비는 없으며, 장고걸스의 철학을 지지하는 분들의 자원봉사로 진행됩니다. 장고걸스서울과 함께 코딩에 대한 열정과 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
 
-[![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2014/meltingpot/)
+[![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)
 
 ## 2016년 세미나 일정
 세미나 종료 후에 발표자들의 발표자료가 공개됩니다. 장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 확인하세요.
-- [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM (박진우, 박조은, 최형묵, 김현미)
+- [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([박진우](https://www.jinpark.net/), 박조은, [최형묵](http://jellyms.kr/), 김현미)
 - 제2회: 2016. 08. 20. SAT 2-5PM (미정)
-
-### 자주하는 질문 (FAQ)
-Q. 장고보이스도 참석할 수 있나요? 
-A. [장고걸스워크샵](https://djangogirls.org/)과 달리, 세미나는 장고걸스(Django Girls)와 장고보이스(Django Boys) 모두 환영합니다. 하지만 더 많은 여성분들에게 프로그래밍 학습 기회를 제공하고자, 여성분들을 우선적으로 선발합니다.
-
-Q. 프로그래밍이 처음입니다. 참석할 수 있나요? 
-A. 참석하실 수 있습니다. 하지만 좀 더 유익한 세미나를 위해 사전에 [Codecademy](https://www.codecademy.com)에서 파이썬 기초 문법을 다뤄보신 후 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)로 블로그를 완성해보시고 오시길 권장합니다. 발표 내용은 참석자분들이 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)을 숙지하셨다는 가정 하에 심화내용을 다룰 것입니다.
-
-Q. 미리 준비해야할 게 있을까요?
-A. Django 1.9와 Python3를 다룹니다. 미리 Django와 Python3를 설치하고 오시길 바랍니다. 설치 내용은 [장고걸스튜토리얼 - 설치하기](http://tutorial.djangogirls.org/ko/installation/)에서 확인하세요.
 
 # 참여하기
 
 ### 발표자로 참석하고 싶습니다.
 장고걸스서울 세미나에서는 누구나 발표자가 될 수 있습니다. 장고걸스서울 세미나를 통해 여러분들의 귀중한 지식과 개발 노하우를 나눠주세요. 발표를 희망하시는 분은 발표하고 싶으신 주제와 간략한 내용을 적어 seoul@djangogirls.org로 보내주시길 바랍니다.
 
-#### 어떤 내용으로 발표할 수 있을까요?
+#### Q1. 어떤 내용으로 발표할 수 있을까요?
 Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다.
 
 ##### Dream - 꿈꿔라
@@ -37,16 +27,32 @@ Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다.
 ##### Create - 창조하라
 내가 직접 만든 프로젝트와 개발 경험을 들려주세요. 성공도 좋고 실패 경험도 좋습니다. 아주 작은 기능도 좋아요. Django를 이용해 만든 것이면 무엇이든 됩니다. 여러분이 만들어 본 작품을 맘껏 뽐내보세요.
 
-#### 발표자를 위한 가이드가 있을까요?
-* 설명하기 - 기술에 대한 어려운 용어의 사용을 하실 때는 실생활의 예를 들어 설명하고, 항상 전체적인 그림에 대하여 설명할 수 있도록 해 주세요. "쉬운건데" 라던가 "간단히" 같은 표현을 사용하지 마세요.
-* 난이도 조절하기 - 배우는 입장에서는 한 번도 해 본 적이 없는 가장 어려운 것일 수가 있습니다. 추가로 설명하고 있는 내용들이 가끔 불필요하며 난해하게 보일 수 있으니, 적절한 난이도를 유지해주세요.
-* 긍정적인 모습 보여주기 - 코딩은 재미있다는 것을 보여주세요. 프로그래밍은 무서운 것이 아니며, 도전적이지만 모든 사람들 위한 것이라는 것을 보여주는 것입니다. 
-* 참석자들에 대한 태도 - 참석자들이 어떤 것에 대하여 모른다고 할 때 놀란 반응을 하지 마세요. 장고걸스에서는 (기술적인 것이든) 무엇인가 모른다는 것은 이상한 것이 아닙니다.
-* 격려하기 - 마지막으로 모두에게 유익하고 즐거운 시간이 되어야 합니다. 발표 이후에도 참석자들을 도와주고 그들의 성취를 격려해주세요.
+#### Q2. 발표자를 위한 가이드가 있을까요?
+세미나 MC, 발표자 모두 기본적인 [장고걸스 코치매뉴얼](http://coach.djangogirls.org/)에 따라 다음과 같은 준수사항을 따라야합니다.
+* 설명하기 - 기술에 대한 어려운 용어의 사용을 하실 때는 실생활의 예를 들어 설명하고, 항상 전체적인 그림에 대하여 설명할 수 있도록 해 주세요. "쉬운건데" 라던가 "간단한데" 같은 표현을 사용하지 마세요.
+* 난이도 조절하기 - 배우는 입장에서는 한 번도 해 본 적이 없는 가장 어려운 것일 수가 있습니다. 추가로 설명하고 있는 내용들이 가끔 불필요하며 난해하게 보일 수 있으니, 입문자들을 위해 적절한 난이도를 유지해주세요.
+* 긍정적인 모습 보여주기 - 코딩은 재미있다는 것을 보여주세요. 프로그래밍은 무서운 것이 아니며, 도전적이지만 내가 성장하고, 누구나 할 수 있다는 것을 알려주세요.
+* 참석자들에 대한 태도 - 참석자들이 발표 주제나 특정 내용을 모른다고 할 때 절대로 놀란 반응을 하지 마세요. 장고걸스에서는 (기술적인 것이든) `모른다`는 것은 이상한 것이 아니라 당연한 것입니다.
+* 격려하기 - 마지막으로 세미나는 발표자, 운영자, 참석자 모두에게 유익하고 즐거운 시간이 되어야 합니다. 발표 이후에도 참석자들을 도와주고 그들의 성취를 격려해주세요.
+
+#### Q3. 발표자를 위한 혜택이 있나요?
+장고걸스서울 커뮤니티는 비영리임으로, 발표자를 위한 금전적인 지원이 어렵습니다. 하지만 발표 내용을 도와드리며, 발표자 분들의 준비과정과 홍보를 적극적으로 도와드릴 것입니다.
+* 기술적 내용 지원 - 발표를 준비하시면서 어려운 내용이나 궁금한 점은 메타 코치가 도와드립니다.
+* 영어 지원 - 발표 내용이나 소개 자료를 영어로 번역이 필요하시면 운영진들이 도와드립니다.
+* 특별한 혜택! - 장고걸스재단에서 커뮤니티 운영진들과 멤버를 위해 제공하는 `특별한 혜택`이 있습니다. (자세한 내용은 발표자 분들에게 별도로 알려드립니다^^)
 
 ### 청중으로 참석하고 싶습니다.
 장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 통해 참여링크를 전달드립니다. 
-장소 제약 상, 가장 세미나의 혜택을 필요로하는 지원자를 선발합니다. 이후 별도로 참가 확정 메일을 보내드립니다. 
+장소 제약 상, 모든 분들을 수용할 수 없기 때문에, 가장 세미나의 혜택을 필요로하는 지원자를 선발합니다. 이후 별도로 참가 확정 메일을 보내드립니다. 
+
+#### Q1. 장고보이스도 참석할 수 있나요? 
+[장고걸스워크샵](https://djangogirls.org/)과 달리, 세미나는 장고걸스(Django Girls)와 장고보이스(Django Boys) 모두 환영합니다. 하지만 더 많은 여성분들에게 프로그래밍 학습 기회를 제공하고자, 여성분들을 우선적으로 선발합니다.
+
+#### Q2. 프로그래밍이 처음입니다. 참석할 수 있나요? 
+참석하실 수 있습니다. 하지만 좀 더 유익한 세미나를 위해 사전에 [Codecademy](https://www.codecademy.com)에서 파이썬 기초 문법을 다뤄보신 후 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)로 블로그를 완성해보시고 오시길 권장합니다. 발표 내용은 참석자분들이 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)을 숙지하셨다는 가정 하에 심화내용을 다룰 것입니다.
+
+#### Q3. 미리 준비해야할 게 있을까요?
+Django 1.9와 Python3를 다룹니다. 미리 [Django](https://www.djangoproject.com/)와 [Python3](https://www.python.org/downloads/)를 설치하고 오시길 바랍니다. 설치 내용은 [장고걸스튜토리얼 - 설치하기](http://tutorial.djangogirls.org/ko/installation/)에서 확인하세요.
 
 # 장고걸스 커뮤니티 수칙(Code of conduct)
 장고걸스서울은 [장고걸스 커뮤니티 수칙](https://djangogirls.org/pages/coc/)에 따라 모든 행사를 운영하고 있습니다.
