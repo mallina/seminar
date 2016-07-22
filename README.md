@@ -1,7 +1,7 @@
 # 장고걸스서울 월례 세미나 (Dream. Code. Create.)
 English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/seminar/blob/master/readme-en.md)
 
-장고걸스서울은 [마이크로소프트 개발커뮤니티 프로그램 '멜팅팟']((https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django 웹 프레임워크로 웹 사이트를 만들고 싶은 프로그래밍 입문자들 대상으로 진행합니다. 참가비는 없으며, 장고걸스의 철학을 지지하는 분들의 자원봉사로 진행됩니다. 장고걸스서울과 함께 코딩에 대한 열정과 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
+장고걸스서울은 [마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'](https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django 웹 프레임워크로 웹 사이트를 만들고 싶은 프로그래밍 입문자들 대상으로 진행합니다. 참가비는 없으며, 장고걸스의 철학을 지지하는 분들의 자원봉사로 진행됩니다. 장고걸스서울과 함께 코딩에 대한 열정과 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
 
 [![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)
 
@@ -12,7 +12,7 @@ English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/semina
 
 # 참여하기
 
-### 발표자로 참석하고 싶습니다.
+### [발표자로 참석하고 싶습니다]
 장고걸스서울 세미나에서는 누구나 발표자가 될 수 있습니다. 장고걸스서울 세미나를 통해 여러분들의 귀중한 지식과 개발 노하우를 나눠주세요. 발표를 희망하시는 분은 발표하고 싶으신 주제와 간략한 내용을 적어 seoul@djangogirls.org로 보내주시길 바랍니다.
 
 #### Q1. 어떤 내용으로 발표할 수 있을까요?
@@ -41,7 +41,7 @@ Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다.
 * 영어 지원 - 발표 내용이나 소개 자료를 영어로 번역이 필요하시면 운영진들이 도와드립니다.
 * 특별한 혜택! - 장고걸스재단에서 커뮤니티 운영진들과 멤버를 위해 제공하는 `특별한 혜택`이 있습니다. (자세한 내용은 발표자 분들에게 별도로 알려드립니다^^)
 
-### 청중으로 참석하고 싶습니다.
+### [청중으로 참석하고 싶습니다]
 장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 통해 참여링크를 전달드립니다. 
 장소 제약 상, 모든 분들을 수용할 수 없기 때문에, 가장 세미나의 혜택을 필요로하는 지원자를 선발합니다. 이후 별도로 참가 확정 메일을 보내드립니다. 
 
@@ -54,8 +54,8 @@ Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다.
 #### Q3. 미리 준비해야할 게 있을까요?
 Django 1.9와 Python3를 다룹니다. 미리 [Django](https://www.djangoproject.com/)와 [Python3](https://www.python.org/downloads/)를 설치하고 오시길 바랍니다. 설치 내용은 [장고걸스튜토리얼 - 설치하기](http://tutorial.djangogirls.org/ko/installation/)에서 확인하세요.
 
-# 장고걸스 커뮤니티 수칙(Code of conduct)
-장고걸스서울은 [장고걸스 커뮤니티 수칙](https://djangogirls.org/pages/coc/)에 따라 모든 행사를 운영하고 있습니다.
+# 장고걸스 커뮤니티 수칙(Code of Conduct)
+장고걸스서울은 [장고걸스 커뮤니티 수칙](https://djangogirls.org/pages/coc/)에 의거하여 모든 행사를 운영하고 있습니다.
 
 ### 준수 사항
 장고 걸스는 모든 이들에게 열려 있는 친근한 분위기에서 행사를 진행하길 원합니다. 다른 참가자들에게 예의를 갖추어 주십시오.
