@@ -7,7 +7,7 @@ English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/semina
 
 ## 2016년 세미나 일정
 세미나 종료 후에 발표자들의 발표자료가 공개됩니다. 장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 확인하세요.
-- 제1회: 2016. 07. 16. SAT 2-5PM (박진우, 박조은, 최형묵, 김현미) 
+- [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM (박진우, 박조은, 최형묵, 김현미)
 - 제2회: 2016. 08. 20. SAT 2-5PM (미정)
 
 ### 자주하는 질문 (FAQ)
