@@ -51,7 +51,7 @@ This seminar is different from [Django Girls Workshop](https://djangogirls.org/)
 Yes, you can attend. However, we recommend you to learn the basis of Python from [Codecademy](https://www.codecademy.com) and also go through [Django Girls Tutorial](http://tutorial.djangogirls.org/) before attending seminar.
 
 #### Q3. What should I prepare before attending the seminar?
-Please make sure that you have installed `Python 3.5`, `Git`, `Django 1.9` and a `code editor` (Atom,Sublime Text 3 or Microsoft Visual Code). You may find [Installation Chapter in Django Girls Tutorial]((http://tutorial.djangogirls.org/ko/installation/).
+Please make sure that you have installed `Python 3.5`, `Git`, `Django 1.9` and a `code editor` (Atom,Sublime Text 3 or Microsoft Visual Code). You may find [Installation Chapter in Django Girls Tutorial](http://tutorial.djangogirls.org/ko/installation/).
 
 #### Q4. Can I get the presentation material after the seminar?
 Yes, We will share them via Facebook, Slack and email! 
