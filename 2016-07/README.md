@@ -1,21 +1,14 @@
 ## 2016년 7월 세미나
 * 일시: 2016년 7월 16일 토요일 오후 2시~5시
-* 장소: 토즈 선릉점
+* 장소: 강남 [토즈타워점](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en)
 * 인원: 40명
+* 신청 링크 : 
 
-### 발표
-#### 1. Python Recipes | 박조은님
-- 장고걸스 튜토리얼을 막 마친 분들께 파이썬으로 만들 수 있는 요리재료와 레시피들을 소개해 봅니다. 황금레시피(Best Practice)를 따라하면서 나만의 레시피를 만드는데 도움이 될만한 재료들을 소개해볼 예정입니다.
-[PPT](http://www.slideshare.net/zzonee/python-recipes-for-django-girls-seoul)
+### 발표 (섭외 중)
+#### 1. 
 
-#### 2. Django - Big Picture | 박진우님
-- 장고와 파이썬으로 작은 비디오 앱을 함께 만들어 봅시다. 
-[Tutorial](https://jinpark-dg.gitbooks.io/djangotube/content/)
+#### 2. 
 
-#### 3. ES2015 훑어보기 | 김현미님
-- ES2015에서는 무엇이 달라졌나?
-[PPT](http://www.slideshare.net/hyeonmikim77/es2015-for-django-girls-seoul)
+#### 3. 
 
-#### 4. HTML과 CSS의 기본과 활용 | 최현묵님
-- 실제로 OO로 개발해도 되나요?
-[Github](https://github.com/kyunooh/django-girls-july-seminar)
+#### 4. 
