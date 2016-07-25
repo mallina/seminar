@@ -35,7 +35,7 @@ Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다. �
 * 참석자들에 대한 태도 - 참석자들이 발표 주제나 특정 내용을 모른다고 할 때 절대로 놀란 반응을 하지 마세요. 장고걸스에서는 (기술적인 것이든) `모른다`는 것은 이상한 것이 아니라 당연한 것입니다.
 * 격려하기 - 마지막으로 세미나는 발표자, 운영자, 참석자 모두에게 유익하고 즐거운 시간이 되어야 합니다. 발표 이후에도 참석자들을 도와주고 그들의 성취를 격려해주세요.
 
-#### Q3. 발표자를 위한 혜택이 있나요?
+### Q3. 발표자를 위한 혜택이 있나요?
 장고걸스서울 커뮤니티는 비영리임으로, 발표자에게 금전적인 혜택을 제공하지 않습니다. 발표자 분들의 준비과정과 발표 내용 홍보를 적극적으로 도와드릴 것입니다.
 * 기술적 내용 지원 - 발표를 준비하시면서 어려운 내용이나 궁금한 점은 메타 코치가 도와드립니다.
 * 영어 지원 - 발표 내용이나 소개 자료를 영어로 번역이 필요하시면 운영진들이 도와드립니다.
@@ -54,7 +54,7 @@ Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다. �
 ### Q3. 미리 준비해야할 게 있을까요?
 미리 [Django](https://www.djangoproject.com/), [Python3](https://www.python.org/downloads/), 코드에디터(Atom, Sublime Text3, Microsoft Visual Code 중 선택)을 설치하고 오시길 바랍니다. 설치 내용은 [장고걸스튜토리얼 - 설치하기](http://tutorial.djangogirls.org/ko/installation/)에서 확인하세요.
 
-#### Q4. 발표자료를 볼 수 있나요?
+### Q4. 발표자료를 볼 수 있나요?
 세미나 종료 후, 발표자료를 공유합니다. 장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)에서 확인하세요.
 
 # 장고걸스 커뮤니티 수칙(Code of Conduct)
