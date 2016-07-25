@@ -11,14 +11,17 @@ After every seminar, We will share presentation slides via our social channels. 
 - Second Seminar: 2016. 08. 20. SAT 2-5PM (Details coming soon)
 
 ### FAQ
-Q. Can boys attend seminar?
-A. This seminar is different from [Django Girls Workshop](https://djangogirls.org/), therefore both boys and girls are welcomed! However, while selecting the participants for seminar, girls will be given priority.
+####  Q1. Can boys attend seminar?
+This seminar is different from [Django Girls Workshop](https://djangogirls.org/), therefore both boys and girls are welcomed! However, while selecting the participants for seminar, girls will be given priority.
 
-Q. I am a beginner, can I still participate? 
-A. Yes, you can attend. However, we recommend you to learn the basis of Python from [Codecademy](https://www.codecademy.com) and also go through [Django Girls Tutorial](http://tutorial.djangogirls.org/) before attending seminar.
+#### Q2. I am a beginner, can I still participate? 
+Yes, you can attend. However, we recommend you to learn the basis of Python from [Codecademy](https://www.codecademy.com) and also go through [Django Girls Tutorial](http://tutorial.djangogirls.org/) before attending seminar.
 
-Q. What should I prepare before attending the seminar?
-A. Please make sure that you have installed `Python 3.5`, `Git`, `Django 1.9` and a `code editor` (Atom,Sublime Text 3 or Microsoft Visual Code).
+#### Q3. What should I prepare before attending the seminar?
+Please make sure that you have installed `Python 3.5`, `Git`, `Django 1.9` and a `code editor` (Atom,Sublime Text 3 or Microsoft Visual Code).
+
+#### Q4. Can I get the presentation material after the seminar
+Yes, We will share them via Facebook, Slack and email!
 
 # How to attend?
 
