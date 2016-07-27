@@ -29,7 +29,7 @@ If you have created a website using Django and Python. You can share your experi
 ### Q2.Is there any guideline for Presenter?
 If you are Django Girls Seoul Organizer, Coach or presentor, you must read [Django Girls Coach Manual](http://coach.djangogirls.org/)
 
-#### Q3. Do any benefits go with this seminar?
+### Q3. Do any benefits go with this seminar?
 Based on Django Girls Seoul is non-profit community, we don't give monetary incentives to organizers,coaches and presentors. However, we would like to help you in presentation and promote your acitivity 
 * Technical Support - Regarding your presentation, Django Girls meta coaches can help you anytime!
 * English Support for Korean Speaker - If you need any support for translating your presentation to English, don't hesitate to ask us!
