@@ -5,16 +5,15 @@
 * 신청 링크 : 
 
 
-### 연사자 소개 (섭외 중)
--
--
--
--
+### 연사자 소개
+* 양미림
+* Krummel Amanda - My name is Amanda Krummel.  I started learning Javascript last year.  In October I joined [Free Code Camp](https://www.freecodecamp.com/) and have been organizing meet ups and presentations since.  We get people started with coding in general, have presentations on UI design and completing free code camp challenges and projects. [[facebook](https://m.facebook.com/amanda.krummel.9)] [[linkedIn](https://www.linkedin.com/in/amanda-krummel-aa953635?trk=hp-identity-name )]
 
-### 발표 (섭외 중)
-#### 1. 
+### 발표 내용
+#### 1. Django 50
 
-#### 2. 
+#### 2. Getting started with JS - Krummel Amanda
+We will go over a brief history of Javascript and understanding the purpose of javascript. Then we will go over how to get started coding in Javascript.  Following that we will go over three basic examples of javascript code. Finally, we will look at some free javascript resources online.  
 
 #### 3. 
 
