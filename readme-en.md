@@ -1,7 +1,7 @@
 # Metling Pot Seminar Series(Dream. Code. Create.)
 한국어 사용자는 다음 링크에서 읽어주세요 : [Kor](https://github.com/DjangoGirlsSeoul/seminar/blob/master/README.md)
 
-This seminar series is sponsored by Micrsoft 'Melting pot' program with our slogan *'Dream Code Create'*. The purpose of this seminar is to present contents related to Python, Django and web developement in general. There is no cost for you and all seminars run by a mixture of professionals and volunteers who want to bring more women into the tech  by making technology more approachable, simpler and friendlier. We welcome you to join Melting pot Seminar. `me = Member.objects.create(name="my name")!`
+This seminar series is sponsored by Microsoft 'Melting pot' program with our slogan *'Dream Code Create'*. The purpose of this seminar is to present contents related to Python, Django and web developement in general. There is no cost for you and all seminars run by a mixture of professionals and volunteers who want to bring more women into the tech  by making technology more approachable, simpler and friendlier. We welcome you to join Melting pot Seminar. `me = Member.objects.create(name="my name")!`
 
 [![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2014/meltingpot/)
 
