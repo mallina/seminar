@@ -6,7 +6,7 @@ English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/semina
 [![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)
 
 ## 2016년 세미나 일정
-- [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([박진우](https://www.jinpark.net/), 박조은, [최형묵](http://jellyms.kr/), 김현미)
+- [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([박진우](https://www.jinpark.net/), 박조은, [최현묵](http://jellyms.kr/), 김현미)
 - 제2회: 2016. 08. 20. SAT 2-5PM (미정)
 
 # 참여하기
