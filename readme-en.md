@@ -33,6 +33,7 @@ If you are Django Girls Seoul Organizer, Coach or presentor, you must read [Djan
 Based on Django Girls Seoul is non-profit community, we don't give monetary incentives to organizers,coaches and presentors. However, we would like to help you in presentation and promote your acitivity 
 * Technical Support - Regarding your presentation, Django Girls meta coaches can help you anytime!
 * English Support for Korean Speaker - If you need any support for translating your presentation to English, don't hesitate to ask us!
+* Video Recording - If you want to record your presentation, we will prepare MIC and video recording for you.
 * Community Bonus! - Best part of joining Django Girls is to connect with awesome people around you! :heartbeat: 
 
 ## [I want to attend an event or seminar] 
