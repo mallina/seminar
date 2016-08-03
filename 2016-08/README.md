@@ -13,7 +13,7 @@ My name is Amanda Krummel.  I started learning Javascript last year.  In October
 제 이름은 아만다 크루멜입니다. 작년부터 자바스크립트를 배우고 있습니다. 작년 10월 부터 프리코드캠프를 시작한 이후로 밋업 모임과 발표들을 해오고 있습니다. 프리코드캠프는 코딩을 시작하는 분들을 모집해 UI 디자인 관련 발표와 프리코드캠프의 프로젝트와 문제들을 풀면서 매주 모임을 가지고 있습니다.
 
 ### 발표 내용
-#### 1. Django 50
+#### 1. Django 50 - 양미림
 - 웹서비스 구조 - 서버와 클라이언트, 웹서버와 데이터베이스 서버에 관한 정리
 - MVC VS MTV
 - Django Framework 구조
@@ -22,7 +22,7 @@ My name is Amanda Krummel.  I started learning Javascript last year.  In October
 We will go over a brief history of Javascript and understanding the purpose of javascript. Then we will go over how to get started coding in Javascript.  Following that we will go over three basic examples of javascript code. Finally, we will look at some free javascript resources online. 
 자바스크립트의 간략한 역사와 목적을 먼저 이해하고 자바스크립트 코딩을 어떻게 하는지 살펴보고자 합니다. 아주 기본적인 자바스크립트 예제를 알아보고 온라인에서 무료로 제공되는 자료들을 살펴볼 것입니다.
 
-#### 3. CSS 기초 
+#### 3. CSS 기초 - 안정민
 CSS의 기본적인 이해와, 꼭 알아야 하는 속성들에 대해 살펴볼 예정입니다.
 
 #### 4. 
