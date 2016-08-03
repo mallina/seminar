@@ -22,6 +22,7 @@ My name is Amanda Krummel.  I started learning Javascript last year.  In October
 We will go over a brief history of Javascript and understanding the purpose of javascript. Then we will go over how to get started coding in Javascript.  Following that we will go over three basic examples of javascript code. Finally, we will look at some free javascript resources online. 
 자바스크립트의 간략한 역사와 목적을 먼저 이해하고 자바스크립트 코딩을 어떻게 하는지 살펴보고자 합니다. 아주 기본적인 자바스크립트 예제를 알아보고 온라인에서 무료로 제공되는 자료들을 살펴볼 것입니다.
 
-#### 3. 
+#### 3. CSS 기초 
+CSS의 기본적인 이해와, 꼭 알아야 하는 속성들에 대해 살펴볼 예정입니다.
 
 #### 4. 
