@@ -7,7 +7,7 @@ English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/semina
 
 ## 2016년 세미나 일정
 - [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([박진우](https://www.jinpark.net/), 박조은, [최현묵](http://jellyms.kr/), 김현미)
-- [제2회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-08) : 2016. 08. 20. SAT 1-5PM (미정)
+- [제2회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-08) : 2016. 08. 20. SAT 2-5PM (양미림, Krummel Amanda, 안정민, 정광윤)
 
 # 참여하기
 
@@ -43,13 +43,13 @@ Dream, Code, Create 중 한 주제를 선택해서 발표할 수 있습니다. �
 * 특별한 혜택! - 장고걸스재단에서 커뮤니티 운영진들과 멤버를 위해 제공하는 `특별한 혜택`이 있습니다. (자세한 내용은 발표자 분들에게 별도로 알려드립니다. :heartbeat: )
 
 ## [참가자로 참석하고 싶습니다]
-장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 통해 참여링크를 전달드립니다. 
+장고걸스서울 [Facebook](https://www.facebook.com/djangogirlsseoul/), [Twitter](https://twitter.com/djangogirlseoul), [Slack](https://djangogirlsseoul.slack.com)을 통해 참여링크를 전달드립니다.
 지원하신 모든 분들과 함께 하고 싶지만 장소 제약 상, 모든 분들을 수용할 수 없습니다. 가장 세미나의 혜택을 필요로하는 지원자와 여성 분들을 우선적으로 선발하며, 이후 별도로 참가 확정 메일을 보내드립니다. 당일 세미나 참석 *취소*는 가급적 피해주시고, 참석이 어려운 경우 `seoul@djangogirls.org`로 연락주세요.
 
-### Q1. 장고보이스도 참석할 수 있나요? 
+### Q1. 장고보이스도 참석할 수 있나요?
 [장고걸스워크샵](https://djangogirls.org/)과 달리, 세미나는 장고걸스(Django Girls)와 장고보이스(Django Boys) 모두 환영합니다. 하지만 더 많은 여성분들에게 프로그래밍 학습 기회를 제공하고자, 여성분들을 우선적으로 선발합니다.
 
-### Q2. 프로그래밍이 처음입니다. 참석할 수 있나요? 
+### Q2. 프로그래밍이 처음입니다. 참석할 수 있나요?
 참석하실 수 있습니다. 하지만 좀 더 유익한 세미나를 위해 사전에 [Codecademy](https://www.codecademy.com)에서 파이썬 기초 문법을 다뤄보신 후 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)로 블로그를 완성해보시고 오시길 권장합니다. 발표 내용은 참석자분들이 [장고걸스튜토리얼](http://tutorial.djangogirls.org/)을 숙지하셨다는 가정 하에 심화내용을 다룰 것입니다.
 
 ### Q3. 미리 준비해야할 게 있을까요?
