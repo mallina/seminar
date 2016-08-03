@@ -14,6 +14,7 @@ My name is Amanda Krummel.  I started learning Javascript last year.  In October
 #### 안정민
 
 #### 정광윤
+빅데이터 기반 주식예측서비스 '빅터'를 운영중인 [스마트포캐스트](http://www.smfcast.com)의 NLP lab에서 백엔드 개발자로 있는 정광윤입니다. 다양한 사람과 좋은 만남이 있었으면 좋겠습니다.
 
 ### 발표 내용
 #### 1. Django 50 | 양미림
