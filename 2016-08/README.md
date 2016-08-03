@@ -11,6 +11,7 @@
 #### Krummel Amanda [[facebook](https://m.facebook.com/amanda.krummel.9)] [[linkedIn](https://www.linkedin.com/in/amanda-krummel-aa953635?trk=hp-identity-name )] 
 My name is Amanda Krummel.  I started learning Javascript last year.  In October I joined [Free Code Camp](https://www.freecodecamp.com/) and have been organizing meet ups and presentations since.  We get people started with coding in general, have presentations on UI design and completing free code camp challenges and projects. 
 제 이름은 아만다 크루멜입니다. 작년부터 자바스크립트를 배우고 있습니다. 작년 10월 부터 프리코드캠프를 시작한 이후로 밋업 모임과 발표들을 해오고 있습니다. 프리코드캠프는 코딩을 시작하는 분들을 모집해 UI 디자인 관련 발표와 프리코드캠프의 프로젝트와 문제들을 풀면서 매주 모임을 가지고 있습니다.
+#### 정광윤
 
 ### 발표 내용
 #### 1. Django 50 - 양미림
@@ -25,4 +26,4 @@ We will go over a brief history of Javascript and understanding the purpose of j
 #### 3. CSS 기초 - 안정민
 CSS의 기본적인 이해와, 꼭 알아야 하는 속성들에 대해 살펴볼 예정입니다.
 
-#### 4. 
+#### 4. (추가예정) - 정광윤
