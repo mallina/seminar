@@ -29,4 +29,5 @@ We will go over a brief history of Javascript and understanding the purpose of j
 #### 3. CSS 기초 | 안정민
 CSS의 기본적인 이해와, 꼭 알아야 하는 속성들에 대해 살펴볼 예정입니다.
 
-#### 4. (추가예정) | 정광윤
+#### 4. Python과 Database | 정광윤
+어떤 서비스든 Database는 매우 중요한 역할을 합니다. Python으로 MySQL, PostgreSQL 등 다양한 Database와 어떻게 동작을 하는지 살펴볼 예정입니다. Database에 대한 기본적인 개념부터 현업에서는 어떤 Tool을 사용하고 있는지 등 다양하게 살펴보려고 합니다. 실습 해볼 환경은 Macbook이고 RDBS 설치도 같이 해보겠습니다.
