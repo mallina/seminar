@@ -12,7 +12,7 @@
 My name is Amanda Krummel.  I started learning Javascript last year.  In October I joined [Free Code Camp](https://www.freecodecamp.com/) and have been organizing meet ups and presentations since.  We get people started with coding in general, have presentations on UI design and completing free code camp challenges and projects.
 제 이름은 아만다 크루멜입니다. 작년부터 자바스크립트를 배우고 있습니다. 작년 10월 부터 프리코드캠프를 시작한 이후로 밋업 모임과 발표들을 해오고 있습니다. 프리코드캠프는 코딩을 시작하는 분들을 모집해 UI 디자인 관련 발표와 프리코드캠프의 프로젝트와 문제들을 풀면서 매주 모임을 가지고 있습니다.
 #### 안정민
-
+안녕하세요. NHN Technology Services에서 네이버 서비스 UI개발자로 근무하고 있는 안정민입니다. 자바스크립트에도 관심이 많아서 꾸준히 공부하고 있습니다.
 #### 정광윤
 빅데이터 기반 주식예측서비스 '빅터'를 운영중인 [스마트포캐스트](http://www.smfcast.com)의 NLP lab에서 백엔드 개발자로 있는 정광윤입니다. 다양한 사람과 좋은 만남이 있었으면 좋겠습니다.
 
