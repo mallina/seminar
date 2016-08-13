@@ -26,8 +26,8 @@ My name is Amanda Krummel.  I started learning Javascript last year.  In October
 We will go over a brief history of Javascript and understanding the purpose of javascript. Then we will go over how to get started coding in Javascript.  Following that we will go over three basic examples of javascript code. Finally, we will look at some free javascript resources online.
 자바스크립트의 간략한 역사와 목적을 먼저 이해하고 자바스크립트 코딩을 어떻게 하는지 살펴보고자 합니다. 아주 기본적인 자바스크립트 예제를 알아보고 온라인에서 무료로 제공되는 자료들을 살펴볼 것입니다.
 
-#### 3. CSS 기초 | 안정민
-CSS의 기본적인 이해와, 꼭 알아야 하는 속성들에 대해 살펴볼 예정입니다.
+#### 3. CSS 선택자 | 안정민
+CSS 사용법, 문법등을 간단히 소개한 후, 여러가지 CSS 선택자를 예제를 보면서 설명드리려고 합니다.
 
 #### 4. Python과 Database | 정광윤
 어떤 서비스든 Database는 매우 중요한 역할을 합니다. Python으로 MySQL, PostgreSQL 등 다양한 Database와 어떻게 동작을 하는지 살펴볼 예정입니다. Database에 대한 기본적인 개념부터 현업에서는 어떤 Tool을 사용하고 있는지 등 다양하게 살펴보려고 합니다. 실습 해볼 환경은 Macbook이고 RDBS 설치도 같이 해보겠습니다.
