@@ -1,4 +1,4 @@
-## 2016년 8월 세미나
+# 2016년 8월 세미나
 * 일시: 2016년 8월 20일 토요일 오후 2시-5시
 * 장소: 강남 [토즈타워점](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en)
 * 인원: 40명
@@ -10,21 +10,21 @@
 * Attendees : 40 ppl.
 * Application Link : [OnOffmix](http://onoffmix.com/event/74681) - because platform doesn't support English, we will provide english and korean description from next seminar.
 
-### 연사자 소개 About Speakers
-#### 양미림 Mirim(Emily) Yang
+## 연사자 소개 About Speakers
+### 양미림 Mirim(Emily) Yang
 안녕하세요. 양미림입니다. 작년 10월 코딩을 시작하여 현재 금융관련 웹 프로그래머로 활동하고 있습니다. 장고걸스에서 주최한 코드더젠더갭이라는 영화 상영회를 통하여 처음 이 조직을 알게되었습니다. 매주 JAVA와 안드로이드 관련 스터디를 강남에서 진행하고 있고, 이번 세미나부터 장고걸스 운영진으로 활동하게 되었습니다.
 
 Hello, I am Mirim Yang. Since last octobar I have been doing programming, I am currently working in banking system as web programmer. After I went to CODE documentary event hosted by Django Girls Seoul, I join this community. Every weenkend I run JAVA and Android Study meetup nearby Gangnam and I also work in Django Girls Seoul Organizer from this seminar. 
 
-#### Amanda Krummel[[facebook](https://m.facebook.com/amanda.krummel.9)] [[linkedIn](https://www.linkedin.com/in/amanda-krummel-aa953635?trk=hp-identity-name )]
+### Amanda Krummel[[facebook](https://m.facebook.com/amanda.krummel.9)] [[linkedIn](https://www.linkedin.com/in/amanda-krummel-aa953635?trk=hp-identity-name )]
 My name is Amanda Krummel.  I started learning Javascript last year.  In October I joined [Free Code Camp](https://www.freecodecamp.com/) and have been organizing meet ups and presentations since.  We get people started with coding in general, have presentations on UI design and completing free code camp challenges and projects.
 제 이름은 아만다 크루멜입니다. 작년부터 자바스크립트를 배우고 있습니다. 작년 10월 부터 프리코드캠프를 시작한 이후로 밋업 모임과 발표들을 해오고 있습니다. 프리코드캠프는 코딩을 시작하는 분들을 모집해 UI 디자인 관련 발표와 프리코드캠프의 프로젝트와 문제들을 풀면서 매주 모임을 가지고 있습니다.
 
-#### 안정민 Jeongmin Ahn
+### 안정민 Jeongmin Ahn
 안녕하세요. NHN Technology Services에서 네이버 서비스 UI개발자로 근무하고 있는 안정민입니다. 자바스크립트에도 관심이 많아서 꾸준히 공부하고 있습니다.
 Hello. I am Yeongmin Ahn and I am UI deveoloper in NHN Technology Services. I am really passionated learning about Javascript.
 
-#### 정광윤 KwangYoun Jung
+### 정광윤 KwangYoun Jung
 빅데이터 기반 주식예측서비스 '빅터'를 운영중인 [스마트포캐스트](http://www.smfcast.com)의 NLP lab에서 백엔드 개발자로 있는 정광윤입니다. 다양한 사람과 좋은 만남이 있었으면 좋겠습니다.
 I am a backend developer in NLP lab Team, [SMART For Cast Corp.](http://www.smfcast.com) which provides 'Bigta', a big data-based stock prediction platform. I want to meet more various people and enjoy meaningful events.
 
