@@ -4,8 +4,9 @@
 * 인원: 40명
 * 신청 링크 : [온오프믹스](http://onoffmix.com/event/74681)
 
+
 * Date and Time : 20th August 2016. From 14:00 to 17:00
-* Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (exit Sinbundang Red Line exit 4)
+* Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (Sinbundang Red Line exit 4)
 * Attendees : 40 ppl.
 * Application Link : [OnOffmix](http://onoffmix.com/event/74681) - because platform doesn't support English, we will provide english and korean description from next seminar.
 
