@@ -6,7 +6,7 @@
 
 
 * Date and Time : 20th August 2016. From 14:00 to 17:00
-* Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (Sinbundang Red Line exit 4)
+* Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (Gangnam Station Sin-bundang Red Line exit 4)
 * Attendees : 40 ppl.
 * Application Link : [OnOffmix](http://onoffmix.com/event/74681) - because platform doesn't support English, we will provide english and korean description from next seminar.
 
@@ -14,7 +14,7 @@
 ### 양미림 Mirim(Emily) Yang
 안녕하세요. 양미림입니다. 작년 10월 코딩을 시작하여 현재 금융관련 웹 프로그래머로 활동하고 있습니다. 장고걸스에서 주최한 코드더젠더갭이라는 영화 상영회를 통하여 처음 이 조직을 알게되었습니다. 매주 JAVA와 안드로이드 관련 스터디를 강남에서 진행하고 있고, 이번 세미나부터 장고걸스 운영진으로 활동하게 되었습니다.
 
-Hello, I am Mirim Yang. Since last octobar I have been doing programming, I am currently working in banking system as web programmer. After I went to CODE documentary event hosted by Django Girls Seoul, I join this community. Every weenkend I run JAVA and Android Study meetup nearby Gangnam and I also work in Django Girls Seoul Organizer from this seminar. 
+Hello, I am Mirim Yang. Since last October I have started programming. Currently I am working in banking system as web programmer. After I attended CODE documentary event hosted by Django Girls Seoul, I joined this community. Every weekend I organize JAVA and Android Study meetup nearby Gangnam and I also work as Django Girls Seoul Organizer from this spring.
 
 ### Amanda Krummel[[facebook](https://m.facebook.com/amanda.krummel.9)] [[linkedIn](https://www.linkedin.com/in/amanda-krummel-aa953635?trk=hp-identity-name )]
 My name is Amanda Krummel.  I started learning Javascript last year.  In October I joined [Free Code Camp](https://www.freecodecamp.com/) and have been organizing meet ups and presentations since.  We get people started with coding in general, have presentations on UI design and completing free code camp challenges and projects.
@@ -24,17 +24,17 @@ My name is Amanda Krummel.  I started learning Javascript last year.  In October
 ### 안정민 Jeongmin Ahn
 안녕하세요. NHN Technology Services에서 네이버 서비스 UI개발자로 근무하고 있는 안정민입니다. 자바스크립트에도 관심이 많아서 꾸준히 공부하고 있습니다.
 
-Hello. I am Yeongmin Ahn and I am UI deveoloper in NHN Technology Services. I am really passionated learning about Javascript.
+Hello. I am Jeongmin Ahn and I am UI developer in NHN Technology Services. I am really passionate about learning Javascript.
 
 ### 정광윤 KwangYoun Jung
 빅데이터 기반 주식예측서비스 '빅터'를 운영중인 [스마트포캐스트](http://www.smfcast.com)의 NLP lab에서 백엔드 개발자로 있는 정광윤입니다. 다양한 사람과 좋은 만남이 있었으면 좋겠습니다.
 
-I am a backend developer in NLP lab Team, [SMART For Cast Corp.](http://www.smfcast.com) which provides 'Bigta', a big data-based stock prediction platform. I want to meet more various people and enjoy meaningful events.
+I am a backend developer in NLP lab Team, [SMART For Cast Corp.](http://www.smfcast.com) which provides 'Bigta', a big data-based stock prediction platform. I want to meet various people and enjoy meaningful events.
 
 ### 발표 내용 Presentations
 #### 1. Django 50 | 양미림 Mirim Yang
-- Web Service Structure  - Summarzie Sever & Clients, Sever & Database
-- MVC VS MTV
+- Web Service Architecture  - Summarize Sever & Clients, Sever & Database
+- MVC (Model View Controller) VS MTV (Model Template View)
 - Django Framework Structure
 
 #### 2. Getting started with JS 자바스크립트 시작하기| Krummel Amanda
@@ -45,10 +45,10 @@ We will go over a brief history of Javascript and understanding the purpose of j
 #### 3. CSS Selector 선택자 | 안정민 Jeongmin Ahn
 CSS 사용법, 문법등을 간단히 소개한 후, 여러가지 CSS 선택자를 예제를 보면서 설명드리려고 합니다.
 
-I'd like to introduce basic CSS usage and syntax, afterthat I will describe many type of CSS selectors based on examples 
+I'd like to introduce basic CSS usage and syntax, after that I will describe many type of CSS selectors with examples
 
 #### 4. Python과 Database | 정광윤 KwangYoun Jung
 어떤 서비스든 Database는 매우 중요한 역할을 합니다. Python으로 MySQL, PostgreSQL 등 다양한 Database와 어떻게 동작을 하는지 살펴볼 예정입니다. Database에 대한 기본적인 개념부터 현업에서는 어떤 Tool을 사용하고 있는지 등 다양하게 살펴보려고 합니다. 실습 해볼 환경은 Macbook이고 RDBS 설치도 같이 해보겠습니다.
 
-Every service, Database has very important role. Python is expected to examine Database and operate with various database operations such as MySQL, PostgreSQL. From basic concepts of Database to production level, We will look up different tools.
-I will use Mac and show you how to install RDBS.
+In every service, Database has very important role. In this talk, I will talk about how to connect databases such as MySQL and PostgreSQL with Python. From basic concepts of Database to production level, We will look at different tools.
+At the end, I will demo installation and usage of RDBS on Mac-OS.
