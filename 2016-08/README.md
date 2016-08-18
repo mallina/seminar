@@ -42,7 +42,7 @@ I am a backend developer in NLP lab Team, [SMART For Cast Corp.](http://www.smfc
 
 We will go over a brief history of Javascript and understanding the purpose of javascript. Then we will go over how to get started coding in Javascript.  Following that we will go over three basic examples of javascript code. Finally, we will look at some free javascript resources online.
 
-### 3. CSS Selector 선택자 | 안정민 Jeongmin An [slides](http://www.slideshare.net/AnJeongmin/css-selectors-65121142)
+### 3. CSS Selector 선택자 | 안정민 Jeongmin An [slides](http://www.slideshare.net/AnJeongmin/css-selectors-65122168)
 CSS 사용법, 문법등을 간단히 소개한 후, 여러가지 CSS 선택자를 예제를 보면서 설명드리려고 합니다.
 
 I'd like to introduce basic CSS usage and syntax, after that I will describe many type of CSS selectors with examples
