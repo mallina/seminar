@@ -1,10 +1,11 @@
 # 2016년 8월 세미나 August 2016 Seminar
+
+### 대화 채널 Communication Channel 
 Join `#melting-pot-seminar` in Slack.
 If you are newbie in Django Girls Seoul Slack, Click this [link](
 http://djangogirlsseoulslackin.herokuapp.com/
 ).
-
-장고걸스서울 슬랙 `#melting-pot-semiar` 로 들어오시길 바랍니다.
+장고걸스서울 슬랙 `#meltingpot-semiar`로 들어오시길 바랍니다.
 처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://djangogirlsseoulslackin.herokuapp.com/)를 클릭하시고 이메일을 직성하셔서 초대메일을 받으세요.
 
 ### 일시 / 장소
@@ -71,7 +72,7 @@ CSS 사용법, 문법등을 간단히 소개한 후, 여러가지 CSS 선택자�
 
 I'd like to introduce basic CSS usage and syntax, after that I will describe many type of CSS selectors with examples
 
-### 4. Python과 Database | 정광윤 KwangYoun Jung [slides]()
+### 4. Python과 Database | 정광윤 KwangYoun Jung [slides](http://www.slideshare.net/DustinJunginSeoul/python-and-database)
 어떤 서비스든 Database는 매우 중요한 역할을 합니다. Python으로 MySQL, PostgreSQL 등 다양한 Database와 어떻게 동작을 하는지 살펴볼 예정입니다. Database에 대한 기본적인 개념부터 현업에서는 어떤 Tool을 사용하고 있는지 등 다양하게 살펴보려고 합니다. 실습 해볼 환경은 Macbook이고 RDBS 설치도 같이 해보겠습니다.
 
 In every service, Database has very important role. In this talk, I will talk about how to connect databases such as MySQL and PostgreSQL with Python. From basic concepts of Database to production level, We will look at different tools.
