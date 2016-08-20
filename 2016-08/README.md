@@ -62,7 +62,7 @@ Now Computer Science Master student in TU Berlin + KAIST
 - MVC (Model View Controller) VS MTV (Model Template View)
 - Django Framework Structure
 
-### 2. Getting started with JS 자바스크립트 시작하기| Krummel Amanda [slides]()
+### 2. Getting started with JS 자바스크립트 시작하기| Amanda Krummel [github](https://github.com/jupiterpenny/JavascriptFCC?files=1)
 자바스크립트의 간략한 역사와 목적을 먼저 이해하고 자바스크립트 코딩을 어떻게 하는지 살펴보고자 합니다. 아주 기본적인 자바스크립트 예제를 알아보고 온라인에서 무료로 제공되는 자료들을 살펴볼 것입니다.
 
 We will go over a brief history of Javascript and understanding the purpose of javascript. Then we will go over how to get started coding in Javascript.  Following that we will go over three basic examples of javascript code. Finally, we will look at some free javascript resources online.
