@@ -52,10 +52,9 @@ Hello. I am Jeongmin An and I am UI developer in NHN Technology Services. I am r
 
 I am a backend developer in NLP lab Team, [SMART For Cast Corp.](http://www.smfcast.com) which provides 'Bigta', a big data-based stock prediction platform. I want to meet various people and enjoy meaningful events.
 
-### Paul Grau @graup
-From Berlin, Germany
-Web developer for some years
-Now Computer Science Master student in TU Berlin + KAIST
+### Paul Grau [@graup](https://github.com/graup)
+
+Web developer from Berlin, Germany. Computer Science Master student in TU Berlin + KAIST
 
 ## 발표 내용 Presentations
 ### 1. Django 50 | 양미림 Mirim Yang [slides]()
