@@ -41,6 +41,11 @@ Hello. I am Jeongmin An and I am UI developer in NHN Technology Services. I am r
 ### 정광윤 KwangYoun Jung
 빅데이터 기반 주식예측서비스 '빅터'를 운영중인 [스마트포캐스트](http://www.smfcast.com)의 NLP lab에서 백엔드 개발자로 있는 정광윤입니다. 다양한 사람과 좋은 만남이 있었으면 좋겠습니다.
 
+### Paul Grau @graup
+From Berlin, Germany
+Web developer for some years
+Now Computer Science Master student in TU Berlin + KAIST
+
 I am a backend developer in NLP lab Team, [SMART For Cast Corp.](http://www.smfcast.com) which provides 'Bigta', a big data-based stock prediction platform. I want to meet various people and enjoy meaningful events.
 
 ## 발표 내용 Presentations
@@ -64,3 +69,5 @@ I'd like to introduce basic CSS usage and syntax, after that I will describe man
 
 In every service, Database has very important role. In this talk, I will talk about how to connect databases such as MySQL and PostgreSQL with Python. From basic concepts of Database to production level, We will look at different tools.
 At the end, I will demo installation and usage of RDBS on Mac-OS.
+
+### 5. GitHub in 5 Minutes | Paul Grau [slides](https://docs.google.com/presentation/d/1LbCGSHxJj8SjMFepfq-hTWbJBRd8voScEeKmIgyRgQc/edit#slide=id.p)
