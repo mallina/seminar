@@ -3,12 +3,24 @@
 * 장소: 강남 [토즈타워점](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en)
 * 인원: 40명
 * 신청 링크 : [온오프믹스](http://onoffmix.com/event/74681)
-
-
-* Date and Time : 20th August 2016. From 14:00 to 17:00
 * Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (Gangnam Station Sin-bundang Red Line exit 4)
 * Attendees : 40 ppl.
 * Application Link : [OnOffmix](http://onoffmix.com/event/74681) - because platform doesn't support English, we will provide english and korean description from next seminar.
+
+
+#### Date and Time : 20th August 2016. From 14:00 to 17:00
+Schedule
+오늘 스케줄 안내입니다.
+- 1:30 pm ~ 1: 50pm  Registration
+- 2:00 pm ~ 2: 05pm  Opening
+- 2:05 pm ~ 2: 10pm  Lightning Talk - Paul Grau - How to use github & find packages
+- 2:10 pm ~ 2: 40pm  Mirim(Emily) Yang - Django 50
+- 2:40 pm ~ 3: 20pm  KwangYoun Jung - Python과 Database
+- 3:20 pm ~ 3: 30 pm Break Time
+- 3:30pm  ~ 4: 00 pm Krummel Amanda - Getting started with JS
+- 4:00pm  ~  4: 30 pm Jeongmin An - CSS Selector
+- 4:30pm ~ Feedback Time and Closing
+
 
 ## 연사자 소개 About Speakers
 ### 양미림 Mirim(Emily) Yang
