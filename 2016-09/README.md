@@ -1,4 +1,4 @@
-# 2016년 8월 세미나 August 2016 Seminar
+# 2016년 9월 세미나 September 2016 Seminar
 
 ### 대화 채널 Communication Channel 
 Join `#melting-pot-seminar` in Slack.
@@ -27,4 +27,6 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 ### 2.
 
-### 3.
+### 3. 수프와 장고로 시작하는 웹 크롤링 |  이수진 
+최근에 마라톤 일정을 보여주는 웹사이트를 만들었습니다.
+Beautiful4Soup으로 데이터를 크롤링하고 파싱하는 방법, JSON으로 변환하여 Django View로 연결하거나 혹은 Django Models로 처리하는 방법과 그 이외에Requests로 지도, 날씨 API 추가하는 법을 간략히 설명하고자 합니다.
