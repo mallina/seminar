@@ -20,13 +20,20 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 스케쥴 Schedule
 
 ## 연사자 소개 About Speakers
-### 
+### 1. 이소은
+
+
+### 2. 김은지 
+
+### 3. 이수진
 
 ## 발표 내용 Presentations
-### 1.
+### 1. 나의 코딩 이야기 | 이소은
+코딩에서 즐거움을 느끼고, 코딩을 하면서 그리고 개발자를 하면서 겪었던 시행 착오를 공유하고자 합니다.
 
-### 2.
+### 2. Azure에서 Python 프로젝트 쉽게 배포하기 | 김은지
+Python을 이용하여 만든 프로젝트를 Azure를 이용하여 배포해보는 과정을 설명 하고자 합니다.
 
 ### 3. 수프와 장고로 시작하는 웹 크롤링 |  이수진 
 최근에 마라톤 일정을 보여주는 웹사이트를 만들었습니다.
-Beautiful4Soup으로 데이터를 크롤링하고 파싱하는 방법, JSON으로 변환하여 Django View로 연결하거나 혹은 Django Models로 처리하는 방법과 그 이외에Requests로 지도, 날씨 API 추가하는 법을 간략히 설명하고자 합니다.
+Beautiful4Soup으로 데이터를 크롤링하고 파싱하는 방법, JSON으로 변환하여 Django View로 연결하거나 혹은 Django Models로 처리하는 방법과 그 이외에 Requests로 지도, 날씨 API 추가하는 법을 간략히 설명하고자 합니다.
