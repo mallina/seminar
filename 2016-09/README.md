@@ -6,8 +6,7 @@ If you are newbie in Django Girls Seoul Slack, Click this [link](
 http://djangogirlsseoulslackin.herokuapp.com/
 ).
 장고걸스서울 슬랙 `#meltingpot-semiar`로 들어오시길 바랍니다.
-처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://djangogirlsseoulslackin.herokuapp.com/)를 클릭하시고 이메일을 직성하셔서 초대메일을 받으세요.
-
+처음 장고걸스서울 슬랙에 오시는 분은 [링크](slack.djangogirlsseoul.org)를 클릭하시고 이메일을 직성하셔서 초대메일을 받으세요.
 
 ### 일시 및 장소 Time and Date & Location
 * 일시: 2016년 9월 25일 일요일 오후 3시-5시
@@ -39,4 +38,4 @@ Python을 이용하여 만든 프로젝트를 Azure를 이용하여 배포해보
 
 ### 3. 수프와 장고로 시작하는 웹 크롤링 |  이수진 
 최근에 마라톤 일정을 보여주는 [웹사이트](http://www.sujinlee.me/runkorea/)를 만들었습니다. [실제 코딩했던 경험](https://github.com/sujinleeme/official-website/tree/master/myrun)을 바탕으로
-Beautiful4Soup으로 타 웹사이트의 데이터를 크롤링하고 파싱하는 방법, JSON으로 변환하여 Django View로 연결하는 방법, 그 이외에 Requests로 지도, 날씨 API 추가하는 법을 간략히 설명할 것입니다.
+Beautiful4Soup으로 타 웹사이트의 데이터를 크롤링하고 파싱하는 방법, Django View로 연결하는 방법, 그 이외에 Requests로 지도, 날씨 API 추가하는 방법을 간략히 설명할 것입니다.
