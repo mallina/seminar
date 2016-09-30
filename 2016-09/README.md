@@ -11,10 +11,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 일시 및 장소 Time and Date & Location
 * 일시: 2016년 9월 25일 일요일 오후 3시-5시
 * 장소: 토즈 강남 2호점 서울시 서초구 강남대로 459 (서초동 1303-34 백암빌딩 3층)[http://www.toz.co.kr/branch/main/index.htm?id=11]
-* 신청: 
 * Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (Gangnam Station Sin-bundang Red Line exit 4)
 * Attendees : 40 ppl.
-* Application Link :
 
 ### 스케쥴 Schedule
 
