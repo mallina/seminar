@@ -10,7 +10,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 ### 일시 및 장소 Time and Date & Location
 * 일시: 2016년 9월 25일 일요일 오후 3시-5시
-* 장소: 토즈 강남 2호점 서울시 서초구 강남대로 459 (서초동 1303-34 백암빌딩 3층)[http://www.toz.co.kr/branch/main/index.htm?id=11]
+* 장소: 토즈 강남 2호점 서울시 서초구 강남대로 459 서초동 1303-34 백암빌딩 3층 [지도][http://www.toz.co.kr/branch/main/index.htm?id=11]
 * Location: [Gangam Toz Tower](https://www.google.co.kr/maps/place/Gangnam+toztower/@37.5332881,126.9727231,13z/data=!4m8!1m2!2m1!1z6rCV64KoIO2GoOymiO2DgOybjA!3m4!1s0x357ca1574a66f4dd:0x3f766127b34aa28!8m2!3d37.4966909!4d127.0305721?hl=en) (Gangnam Station Sin-bundang Red Line exit 4)
 * Attendees : 40 ppl.
 
@@ -24,7 +24,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 번역 플랫폼 '플리토'에서 프론트엔드 개발자로 일하고 있는 이소은입니다. 코딩을 좋아해서 코드로 이것 저것 만드는 것을 좋아합니다. 어제보다 더 나은 개발자가 되고 싶습니다.
 
 ### 3. 이수진
-대학 졸업 직전 Python을 배우기 시작해 프로그래밍에 입문했습니다. 생업으로 주중에는 CONNECT 재단에서 교육 플랫폼 운영 기획일을 하고 있고, 퇴근 후와 주말에는 주로 코딩을 합니다. 
+[Facebook](https://www.facebook.com/sujiniworld)
 
 ## 발표 내용 Presentations
 
