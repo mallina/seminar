@@ -8,6 +8,8 @@ English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/semina
 ## 2016년 세미나 일정
 - [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([박진우](https://www.jinpark.net/), 박조은, [최현묵](http://jellyms.kr/), 김현미)
 - [제2회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-08) : 2016. 08. 20. SAT 2-5PM (양미림, Krummel Amanda, 안정민, 정광윤)
+- [제3회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-09) : 2016. 09. 25. SUN 3-5PM (김은지, 이소은, 이수진)
+- [제4회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-10) : 2016. 10. 30. SUN 3-5PM (미정)
 
 # 참여하기
 
