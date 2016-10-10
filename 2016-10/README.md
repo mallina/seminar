@@ -10,8 +10,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 ### 일시 및 장소 Time, Date & Location
 * 일시: 2016년 10월 30일 일요일 오후 3시 - 5시
-* 장소: 토즈 
-* Attendees : 40 ppl.
+* 장소: [토즈 강남점](http://www.toz.co.kr/branch/main/index.htm?id=10) (서울시 서초구 서초대로77길 23 (서초동 1307-26 승원빌딩 3,4층))
+* 인원: 40명
 
 ### 스케쥴 Schedule
 
