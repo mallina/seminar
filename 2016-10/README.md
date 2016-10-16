@@ -22,8 +22,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 
 ## 발표 내용 Presentations
-### 1. 조한주
+### 1. 발표제목 | 조한주
 
-### 2. 하지윤
+### 2. | 하지윤
 
-### 3. 김중현
+### 3. | 김중현
