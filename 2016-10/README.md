@@ -13,8 +13,17 @@ http://djangogirlsseoulslackin.herokuapp.com/
 * 장소: [토즈 강남점](http://www.toz.co.kr/branch/main/index.htm?id=10) (서울시 서초구 서초대로77길 23 (서초동 1307-26 승원빌딩 3,4층))
 * 인원: 40명
 
-### 스케쥴 Schedule
-
 ## 연사자 소개 About Speakers
+### 1. 조한주
+
+### 2. 하지윤
+
+### 3. 김중현
+
 
 ## 발표 내용 Presentations
+### 1. 조한주
+
+### 2. 하지윤
+
+### 3. 김중현
