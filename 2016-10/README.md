@@ -1,6 +1,6 @@
 # 2016년 10월 세미나 October 2016 Seminar
 
-### 대화 채널 Communication Channel 
+### 대화 채널 Communication Channel
 Join `#melting-pot-seminar` in Slack.
 If you are newbie in Django Girls Seoul Slack, Click this [link](
 http://djangogirlsseoulslackin.herokuapp.com/
@@ -17,13 +17,14 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 1. 조한주
 
 ### 2. 하지윤
-
+ 컴퓨터공학을 전공하고있는 학생입니다.
 ### 3. 김중현
 
 
 ## 발표 내용 Presentations
 ### 1. 발표제목 | 조한주
 
-### 2. | 하지윤
-
+### 2. Django를 여행하는 초보자의 어려움 | 하지윤
+ 그동안 Django를 공부하며 직접 겪었던 어려움과 이를 해결할 수 있는 방법에 대하여
+ 간단히 공유하고자 합니다.
 ### 3. | 김중현
