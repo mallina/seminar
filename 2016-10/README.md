@@ -20,7 +20,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
  컴퓨터공학을 전공하고있는 학생입니다.
 ### 3. 김중현
 ### 4. Hassan Abid 하산 아비드 
- Sotware Engineer. Find more at [hassanabid.com](www.hassanabid.com)
+ Sotware Engineer. Find more at [hassanabid.com](http://www.hassanabid.com)
 
 
 ## 발표 내용 Presentations
