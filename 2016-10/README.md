@@ -19,6 +19,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 2. 하지윤
  컴퓨터공학을 전공하고있는 학생입니다.
 ### 3. 김중현
+### 4. Hassan Abid 하산 아비드 
+ Sotware Engineer. Find more at [hassanabid.com](www.hassanabid.com)
 
 
 ## 발표 내용 Presentations
@@ -28,3 +30,5 @@ http://djangogirlsseoulslackin.herokuapp.com/
  그동안 Django를 공부하며 직접 겪었던 어려움과 이를 해결할 수 있는 방법에 대하여
  간단히 공유하고자 합니다.
 ### 3. | 김중현
+### 4. Cracking the Coding Interview | Hassan Abid 하산 아비드 
+ In this presentation, I would like to introduce some resources for practicing algorithms and Data Structures as well showcase some examples from Cracking the Coding Interview book
