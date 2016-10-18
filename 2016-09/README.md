@@ -24,7 +24,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 번역 플랫폼 '플리토'에서 프론트엔드 개발자로 일하고 있는 이소은입니다. 코딩을 좋아해서 코드로 이것 저것 만드는 것을 좋아합니다. 어제보다 더 나은 개발자가 되고 싶습니다.
 
 ### 3. 이수진
-[Facebook](https://www.facebook.com/sujiniworld)
+say hello to [Facebook](https://www.facebook.com/sujiniworld), visit [Homepage](http://www.sujinlee.me/)
 
 ## 발표 내용 Presentations
 
