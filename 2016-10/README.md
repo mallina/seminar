@@ -21,7 +21,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 3. 김중현
  안녕하세요, Java 웹 개발자로 일하다가 Python으로 이주하려는 개발자 김중현입니다. 아직 배울 것이 많아서 하루 하루 배움의 나날을 보내고 있습니다.
 ### 4. Hassan Abid 하산 아비드
- Sotware Engineer. Find more at [hassanabid.com](http://www.hassanabid.com)
+ Sotware Engineer. Find more at [hassanabid.com](https://www.hassanabid.com)
 
 
 ## 발표 내용 Presentations
