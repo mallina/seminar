@@ -34,6 +34,7 @@ Python을 이용하여 만든 프로젝트를 Azure를 이용하여 배포해보
 ### 2. 나의 코딩 이야기 | 이소은
 코딩을 하면서 겪는 시행 착오 들과 즐거움에 대한 저의 경험담을 공유하고자 합니다.
 
-### 3. 수프와 장고로 시작하는 웹 크롤링 |  이수진 [PPT](https://goo.gl/VUsKMj)
+### 3. 수프와 장고로 시작하는 웹 크롤링 |  이수진 
 최근에 마라톤 일정을 보여주는 [웹사이트](http://www.sujinlee.me/runkorea/)를 만들었습니다. [실제 코딩했던 경험](https://github.com/sujinleeme/official-website/tree/master/myrun)을 바탕으로
 Beautiful4Soup으로 타 웹사이트의 데이터를 크롤링하고 파싱하는 방법, Django View로 연결하는 방법, 그 이외에 Requests로 지도, 날씨 API 추가하는 방법을 간략히 설명할 것입니다.
+* 발표자료 : [PPT](https://goo.gl/VUsKMj)
