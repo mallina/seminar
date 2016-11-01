@@ -16,7 +16,10 @@ http://djangogirlsseoulslackin.herokuapp.com/
 * 인원: 40명
 
 ## 연사자 소개 About Speakers
-### 1. 강명서
+### 1. 강명서 [@Leop0ld](https://github.com/Leop0ld)
+안녕하세요. 선린인터넷고 3학년이자 오픈갤러리 웹 개발자인 강명서라고 합니다.
 ### 2. Onur
 
 ## 발표 내용 Presentations
+1. settings.py 그리고 SECRET_KEY | 강명서
+Django 프로젝트 내부에 있는 settings.py에 있는 SECRET_KEY에 대해 중점적으로 이야기해보려고 합니다.
