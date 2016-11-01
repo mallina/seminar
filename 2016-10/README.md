@@ -36,6 +36,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 3. Slackbot with Python | 김중현
  파이썬과 슬랙 API를 통해 간단한 명령을 처리할 수 있는 슬랙 봇을 직접 만들어보는 시간을 갖고자 합니다.
  이 실습에서는 슬랙 계정이 필요합니다.
+ * 발표자료 : [Slide](http://www.slideshare.net/JoongHyeonKim/slackbot-with-python-67873010) & [Code](https://github.com/karis0222/python-slackbot)
 
 ### 4. Cracking the Coding Interview | Hassan Abid 하산 아비드
  In this presentation, I would like to introduce some resources for practicing algorithms and Data Structures as well showcase some examples from Cracking the Coding Interview book
