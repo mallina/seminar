@@ -27,12 +27,15 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ## 발표 내용 Presentations
 ### 1. Twitterbot with Python and Tweepy | 조한주
  파이썬으로 트위터 봇을 만들고 배포하는 과정을 공유하고자 합니다. Tweepy는 트위터 API에 쉽게 접근할 수 있도록 하는 파이썬 라이브러리입니다.
+ 
 ### 2. Django를 여행하는 초보자의 어려움 | 하지윤
  그동안 Django를 공부하며 직접 겪었던 어려움과 이를 해결할 수 있는 방법에 대하여
  간단히 공유하고자 합니다.
  * 발표자료 : [PPT](https://drive.google.com/file/d/0B5acoZNCGpvrV0g5MzlNNWQyY1E/view?usp=sharing)
+ 
 ### 3. Slackbot with Python | 김중현
  파이썬과 슬랙 API를 통해 간단한 명령을 처리할 수 있는 슬랙 봇을 직접 만들어보는 시간을 갖고자 합니다.
  이 실습에서는 슬랙 계정이 필요합니다.
+
 ### 4. Cracking the Coding Interview | Hassan Abid 하산 아비드
  In this presentation, I would like to introduce some resources for practicing algorithms and Data Structures as well showcase some examples from Cracking the Coding Interview book
