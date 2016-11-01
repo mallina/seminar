@@ -21,5 +21,4 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 2. Onur
 
 ## 발표 내용 Presentations
-1. settings.py 그리고 SECRET_KEY | 강명서
-Django 프로젝트 내부에 있는 settings.py에 있는 SECRET_KEY에 대해 중점적으로 이야기해보려고 합니다.
+### 1. 미정 | 강명서
