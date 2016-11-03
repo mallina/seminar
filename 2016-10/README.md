@@ -41,3 +41,4 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 ### 4. Cracking the Coding Interview | Hassan Abid 하산 아비드
  In this presentation, I would like to introduce some resources for practicing algorithms and Data Structures as well showcase some examples from Cracking the Coding Interview book
+* 발표자료 : [Slide](https://docs.google.com/presentation/d/15LLSXFdphyl0pZQO7Ful1mLXoLF0h_465wa_SIfXEI4/edit?usp=sharing) & [Code](https://coderpad.io/EH227QPN)
