@@ -8,6 +8,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 장고걸스서울 슬랙 `#meltingpot-semiar`로 들어오시길 바랍니다.
 처음 장고걸스서울 슬랙에 오시는 분은 [링크](slack.djangogirlsseoul.org)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
 
+* [세미나 후기 글](http://ow.ly/Ah29305UEMv)
+
 ### 일시 및 장소 Time, Date & Location
 * 일시: 2016년 10월 30일 일요일 오후 3시 - 5시
 * 장소: [토즈 강남점](http://www.toz.co.kr/branch/main/index.htm?id=10) (서울시 서초구 서초대로77길 23 (서초동 1307-26 승원빌딩 3,4층))
