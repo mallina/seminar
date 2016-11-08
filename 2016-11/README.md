@@ -16,9 +16,17 @@ http://djangogirlsseoulslackin.herokuapp.com/
 * 인원: 40명
 
 ## 연사자 소개 About Speakers
-### 1. 강명서 [@Leop0ld](https://github.com/Leop0ld)
+### 1. Onur
+
+### 2. 강명서 [@Leop0ld](https://github.com/Leop0ld)
 안녕하세요. 선린인터넷고 3학년이자 오픈갤러리 웹 개발자인 강명서라고 합니다.
-### 2. Onur
+
+### 3. 이미희 
 
 ## 발표 내용 Presentations
-### 1. 미정 | 강명서
+### 1. Python과 Diversity | Onur
+
+
+### 2. 미정 | 강명서
+
+### 3. | 이미희
