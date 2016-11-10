@@ -19,7 +19,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 1. Onur
 
 ### 2. 강명서 [@Leop0ld](https://github.com/Leop0ld)
-안녕하세요. 선린인터넷고 3학년이자 오픈갤러리 웹 개발자인 강명서라고 합니다.
+
+안녕하세요. **선린인터넷고 3학년**이자 **오픈갤러리 웹 개발자**인 **강명서**라고 합니다.
 
 ### 3. 이미희 
 
@@ -27,6 +28,13 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ### 1. Python과 Diversity | Onur
 
 
-### 2. 미정 | 강명서
+### 2. settings.py에서 SECRET_KEY 분리해보기 | 강명서
+
+직접 Django 프로젝트를 Git을 통해 clone 받아서 자신의 Github에 Django 프로젝트를 업로드하되, 중요한 정보인 **SECRET_KEY** 는 Github에 올라가지 않게끔 분리해볼 생각입니다. Git에 대한 지식이 있으시면 수월합니다.
+먼저 Github 계정이 없으신 분들은 Github 계정을 만들어주셔야하고, 제가 만들어놓은 기본 구조의 Django 프로젝트를 clone(다운로드) 받아주셔야 합니다.
+또한 Git과 python3, django 1.10 버전을 설치해와주시면 감사하겠습니다.
+
+발표자료: [Slide](http://www.slideshare.net/ssuseraaed82/djangogirls-11-seminar), [Code(settings.py)](https://gist.github.com/Leop0ld/a09d2eb69a0a510420e64d353907071b), [Code(secret.json)](https://gist.github.com/Leop0ld/a7a790879ff4d922cfc564e36f9d5e57)
+
 
 ### 3. | 이미희
