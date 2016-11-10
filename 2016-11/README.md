@@ -34,7 +34,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 먼저 Github 계정이 없으신 분들은 Github 계정을 만들어주셔야하고, 제가 만들어놓은 기본 구조의 Django 프로젝트를 clone(다운로드) 받아주셔야 합니다.
 또한 Git과 python3, django 1.10 버전을 설치해와주시면 감사하겠습니다.
 
-발표자료: [Slide](http://www.slideshare.net/ssuseraaed82/djangogirls-11-seminar), [Code(settings.py)](https://gist.github.com/Leop0ld/a09d2eb69a0a510420e64d353907071b), [Code(secret.json)](https://gist.github.com/Leop0ld/a7a790879ff4d922cfc564e36f9d5e57)
+발표자료: [Slide](http://www.slideshare.net/ssuseraaed82/djangogirls-11-seminar), [Repository](https://github.com/Leop0ld/djangogirls_tutorial), [Code(settings.py)](https://gist.github.com/Leop0ld/a09d2eb69a0a510420e64d353907071b), [Code(secret.json)](https://gist.github.com/Leop0ld/a7a790879ff4d922cfc564e36f9d5e57)
 
 
 ### 3. | 이미희
