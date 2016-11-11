@@ -18,6 +18,8 @@ http://djangogirlsseoulslackin.herokuapp.com/
 ## 연사자 소개 About Speakers
 ### 1. Onur
 
+http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity
+
 ### 2. 강명서 [@Leop0ld](https://github.com/Leop0ld)
 
 안녕하세요. **선린인터넷고 3학년**이자 **오픈갤러리 웹 개발자**인 **강명서**라고 합니다.
