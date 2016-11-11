@@ -17,6 +17,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 ## 연사자 소개 About Speakers
 ### 1. Onur
+http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity
 
 ### 2. 강명서 [@Leop0ld](https://github.com/Leop0ld)
 
