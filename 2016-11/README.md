@@ -17,9 +17,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 
 ## 연사자 소개 About Speakers
 ### 1. Onur
-http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity
-
-http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity
+한국에 한 대학에서 컴퓨터과학을 전공하고 있는 Onur입니다.
 
 ### 2. 강명서 [@Leop0ld](https://github.com/Leop0ld)
 
@@ -29,7 +27,9 @@ http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity
 
 ## 발표 내용 Presentations
 ### 1. Python과 Diversity | Onur
+Python과 Diversity에 대해 이야기 해 보려고 합니다. 
 
+발표자료: [slide](http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity)
 
 ### 2. settings.py에서 SECRET_KEY 분리해보기 | 강명서
 
