@@ -10,6 +10,7 @@ English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/semina
 - [제2회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-08) : 2016. 08. 20. SAT 2-5PM (양미림, Krummel Amanda, 안정민, 정광윤)
 - [제3회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-09) : 2016. 09. 25. SUN 3-5PM (김은지, 이소은, 이수진)
 - [제4회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-10) : 2016. 10. 30. SUN 3-5PM (조한주, 하지윤, 김중현)
+- [제5회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-11) : 2016. 11. 27. SUN 4-6PM (Onur Sahil, [강명서](http://leop0ld.github.io) , 이미희)
 
 # 참여하기
 
