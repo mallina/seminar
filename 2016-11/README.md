@@ -16,17 +16,20 @@ http://djangogirlsseoulslackin.herokuapp.com/
 * 인원: 40명
 
 ## 연사자 소개 About Speakers
-### 1. Onur
-한국에 한 대학에서 컴퓨터과학을 전공하고 있는 Onur입니다.
+### 1. Onur Sahil
+
+한국에 한 대학에서 컴퓨터과학을 전공하고 있는 Onur Sahil 입니다.
 
 ### 2. 강명서 [@Leop0ld](https://github.com/Leop0ld)
 
 안녕하세요. **선린인터넷고 3학년**이자 **오픈갤러리 웹 개발자**인 **강명서**라고 합니다.
 
-### 3. 이미희 
+### 3. 이미희
+
+안녕하세요! 직방에서 기획자로 일하고 있는 이미희입니다
 
 ## 발표 내용 Presentations
-### 1. Python과 Diversity | Onur
+### 1. Python과 Diversity | Onur Sahil
 Python과 Diversity에 대해 이야기 해 보려고 합니다. 
 
 발표자료: [slide](http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity)
@@ -39,5 +42,8 @@ Python과 Diversity에 대해 이야기 해 보려고 합니다.
 
 발표자료: [Slide](http://www.slideshare.net/ssuseraaed82/djangogirls-11-seminar), [Repository](https://github.com/Leop0ld/djangogirls_tutorial), [Code(settings.py)](https://gist.github.com/Leop0ld/a09d2eb69a0a510420e64d353907071b), [Code(secret.json)](https://gist.github.com/Leop0ld/a7a790879ff4d922cfc564e36f9d5e57)
 
+### 3. 업무 효율을 높이는 사소한 파이썬 | 이미희
 
-### 3. | 이미희
+기획자라는 이름 아래, 잡다한 일을 맡아서 하고 있어요! PPT와 회의만으로 하루 업무시간이 꽉 차는데, 제 일을 대신해줄 사람은 없고..(막내의 슬픔). 그래서 파이썬으로 제 일을 대신해 줄 친구들을 만들어보았습니다.메일 자동으로 보내기, 크롤링하기 등 하루에도 매일 있는 작지만 많은 시간을 빼앗기는 일들,사소한 업무들을 파이썬으로 대체한 이야기를 말씀해드릴게요!
+
+
