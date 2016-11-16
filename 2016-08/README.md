@@ -3,10 +3,10 @@
 ### 대화 채널 Communication Channel 
 Join `#melting-pot-seminar` in Slack.
 If you are newbie in Django Girls Seoul Slack, Click this [link](
-http://djangogirlsseoulslackin.herokuapp.com/
+http://slack.djangogirlsseoul.org/
 ).
 장고걸스서울 슬랙 `#meltingpot-semiar`로 들어오시길 바랍니다.
-처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://djangogirlsseoulslackin.herokuapp.com/)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
+처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://slack.djangogirlsseoul.org/)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
 
 
 ### 일시 및 장소 Time, Date & Location
@@ -27,7 +27,7 @@ http://djangogirlsseoulslackin.herokuapp.com/
 - 2:40pm ~ 3:20pm KwangYoun Jung - Python과 Database
 - 3:20pm ~ 3:30pm Break Time
 - 3:30pm ~ 4:00pm Krummel Amanda - Getting started with JS
-- 4:00pm ~  4:30pm Jeongmin An - CSS Selector
+- 4:00pm ~ 4:30pm Jeongmin An - CSS Selector
 - 4:30pm ~ Feedback Time and Closing
 
 
