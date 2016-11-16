@@ -5,10 +5,10 @@
 ### 대화 채널 Communication Channel
 Join `#melting-pot-seminar` in Slack.
 If you are newbie in Django Girls Seoul Slack, Click this [link](
-http://djangogirlsseoulslackin.herokuapp.com/
+http://slack.djangogirlsseoul.org/
 ).
 장고걸스서울 슬랙 `#meltingpot-semiar`로 들어오시길 바랍니다.
-처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://djangogirlsseoulslackin.herokuapp.com/)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
+처음 장고걸스서울 슬랙에 오시는 분은 [링크](http://slack.djangogirlsseoul.org/)를 클릭하시고 이메일을 작성하셔서 초대메일을 받으세요.
 
 ### 일시 및 장소 Time, Date & Location
 * 일시: 2016년 11월 27일 일요일 오후 4시 - 6시
