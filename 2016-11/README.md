@@ -17,7 +17,7 @@ http://slack.djangogirlsseoul.org/
 
 ### 발표 일정 Schedule 
 시간| 세션 | 발표자 |
------------- | :-----------: | -----------: |
+|:--:|:--:|:--:|
 3:40 pm ~ 4:00 pm | 참가자 등록| |
 4:00 pm ~ 4:05 pm | 오프닝 | |
 4:05 pm ~ 4: 25 pm | Python과 Diversity | Onur Sahel|
