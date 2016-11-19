@@ -18,19 +18,12 @@ http://slack.djangogirlsseoul.org/
 ### 발표 일정 Schedule 
 
 3:40 pm ~ 4:00 pm | 참가자 등록| |
-|:---:|:---:|:---:|
 4:00 pm ~ 4:05 pm | 오프닝 | |
-|:---:|:---:|:---:|
 4:05 pm ~ 4: 25 pm | Python과 Diversity | Onur Sahel|
-|:---:|:---:|:---:|
 4:25 pm ~ 5: 10 pm |settings.py에서 SECRET_KEY 분리해보기 | 강명서 |
-|:---:|:---:|:---:|
 5:10 pm ~ 5: 20 pm | Break Time | |
-|:---:|:---:|:---:|
 5:20 pm ~ 5: 50 pm | 업무효율을 높이는 사소한 파이썬 | 이미희 |
-|:---:|:---:|:---:|
 5:50 pm ~ 6: 00 pm | 클로징 | |
-|:---:|:---:|:---:|
 
 ## 연사자 소개 About Speakers
 ### 1. Onur Sahil
