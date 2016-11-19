@@ -29,12 +29,12 @@ http://slack.djangogirlsseoul.org/
 안녕하세요! 직방에서 기획자로 일하고 있는 이미희입니다
 
 ## 발표 내용 Presentations
-### 1. Python과 Diversity | Onur Sahil | 30min
+### 1. Python과 Diversity | Onur Sahil | 20min
 Python과 Diversity에 대해 이야기 해 보려고 합니다. 
 
 발표자료: [slide](http://www.slideshare.net/OnurSahilCERIT/pyhton-diversity)
 
-### 2. settings.py에서 SECRET_KEY 분리해보기 | 강명서 | 1hours
+### 2. settings.py에서 SECRET_KEY 분리해보기 | 강명서 | 45min
 
 직접 Django 프로젝트를 Git을 통해 clone 받아서 자신의 Github에 Django 프로젝트를 업로드하되, 중요한 정보인 **SECRET_KEY** 는 Github에 올라가지 않게끔 분리해볼 생각입니다. Git에 대한 지식이 있으시면 수월합니다.
 먼저 Github 계정이 없으신 분들은 Github 계정을 만들어주셔야하고, 제가 만들어놓은 기본 구조의 Django 프로젝트를 clone(다운로드) 받아주셔야 합니다.
