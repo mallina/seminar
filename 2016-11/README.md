@@ -1,5 +1,6 @@
 # 2016년 11월 세미나 November 2016 Seminar
-* 12월 세미나는 마이크로소프트 멜팅팟 커뮤니티 연합 세미나로 대체합니다.
+* 12월 세미나는 5개 커뮤니티(KELP, 우분투 한국 커뮤니티, 자바 커뮤니티, Django girls Seoul, Microsoft Azure 한국 사용자 그룹) 연합으로 제16회 K.E.L.P. 공개 세미나를 개최합니다. 개발자 여러분들의 많은 관심과 참여를 부탁 드립니다.[[신청]](http://onoffmix.com/event/84425)
+
 * 문의 : seoul@djangogirls.org
 
 ### 대화 채널 Communication Channel
