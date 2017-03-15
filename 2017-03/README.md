@@ -21,7 +21,7 @@ http://slack.djangogirlsseoul.org/
 |:--:|:--:|:--:|
 3:30 pm ~ 4:00 pm | 참가자 등록| |
 4:00 pm ~ 4:10 pm | 오프닝 | |
-4:10 pm ~ 4:30 pm | Django로 만든 개인 프로젝트 경험담 | 하지윤 |
+4:10 pm ~ 4:30 pm | Django로 만든 개인 프로젝트 경험담 | 하지윤 jiyoon Ha |
 4:30 pm ~ 4:50 pm | 파알못의 크롤러 이해하기 | 양혜연 Hyeyeon Yang|
 4:50 pm ~ 5:00 pm | Break Time | |
 5:00 pm ~ 5:20 pm | Django's not MEAN| Bryan Beege Berry|
