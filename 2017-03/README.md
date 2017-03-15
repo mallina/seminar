@@ -33,7 +33,7 @@ http://slack.djangogirlsseoul.org/
 Django로 만든 개인 프로젝트 경험담을 들려 드리고자 합니다.
 
 ### 2.Bryan Beege Berry [@thebeege](https://github.com/TheBeege)
-Django's not MEAN"
+Django's not MEAN
 
 ### 3.양혜연 Hyeyeon Yang [@hyeyeon](https://github.com/imyeonn)
 파알못의 크롤러 이해하기
