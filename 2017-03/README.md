@@ -22,20 +22,18 @@ http://slack.djangogirlsseoul.org/
 3:30 pm ~ 4:00 pm | 참가자 등록| |
 4:00 pm ~ 4:10 pm | 오프닝 | |
 4:10 pm ~ 4:30 pm | Django로 만든 개인 프로젝트 경험담 | 하지윤 |
-4:30 pm ~ 4:50 pm | 파알못의 크롤러 이해하기 | 양혜연 Hyeyeon Yang @hyeyeon |
+4:30 pm ~ 4:50 pm | 파알못의 크롤러 이해하기 | 양혜연 Hyeyeon Yang|
 4:50 pm ~ 5:00 pm | Break Time | |
-5:00 pm ~ 5:20 pm | "Django's not MEAN| Bryan Beege Berry @thebeege |
+5:00 pm ~ 5:20 pm | Django's not MEAN| Bryan Beege Berry|
 5:20 pm ~ 5:30 pm | 클로징 | |
 5:30 pm ~ 6:00 pm | 네트워킹시간 | |
 
 ## 연사자 소개 About Speakers
-### 1.하지윤 []
+### 1.하지윤
 Django로 만든 개인 프로젝트 경험담을 들려 드리고자 합니다.
 
 ### 2.Bryan Beege Berry [@thebeege](https://github.com/TheBeege)
-제목 : "Django's not MEAN"
+"Django's not MEAN"
 
 ### 3.양혜연 Hyeyeon Yang [@hyeyeon](https://github.com/imyeonn)
-
-파이썬 스터디: 양혜연 Hyeyeon Yang @hyeyeon
-제목 : '파알못의 크롤러 이해하기'
+파알못의 크롤러 이해하기
