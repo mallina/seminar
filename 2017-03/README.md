@@ -29,10 +29,10 @@ http://slack.djangogirlsseoul.org/
 5:30 pm ~ 6:00 pm | 네트워킹시간 | |
 
 ## 연사자 소개 About Speakers
-### 1.하지윤 [@punkyoon](https://github.com/punkyoon) | [발표자료](https://www.slideshare.net/HyeyeonYang/ss-73470576)
+### 1.하지윤 [@punkyoon](https://github.com/punkyoon) | [발표자료](https://drive.google.com/file/d/0B5acoZNCGpvrX3IwNGJ0TlZ0Q3M/view)
 Django로 만든 [프로젝트](https://github.com/punkyoon/coding-night-live) 경험담을 들려 드리고자 합니다.
 
-### 2.양혜연 [@hyeyeon](https://github.com/imyeonn)
+### 2.양혜연 [@hyeyeon](https://github.com/imyeonn) | [발표자료](https://www.slideshare.net/HyeyeonYang/ss-73470576)
 파알못의 크롤러 이해하기
 
 ### 3.Bryan Beege Berry [@thebeege](https://github.com/TheBeege) | [Facebook](https://www.facebook.com/LearnTeachCodeSeoul/)
