@@ -11,6 +11,7 @@ This seminar series is sponsored by Microsoft 'Melting pot' program with our slo
 - [3rd](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-09) : 2016. 09. 25. SUN 3-5PM (Eunji Kim, Soeun Lee, Sujin Lee)
 - [4th](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-10) : 2016. 10. 30. SUN 3-5PM (Hanjoo Jo, Jiyoon Ha, Jonghyun Kim)
 - [5th](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-11) : 2016. 11. 27. SUN 4-6PM (Onur Sahil, [Myeongseo Kang](http://leop0ld.github.io) , Mihee Lee)
+- [6th](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2017-03) : 2017. 03. 26. SUN 4-6PM ([Jiyun Ha](https://github.com/punkyoon), [Hyeyeon Yang](https://github.com/imyeonn), [Bryan Beege Berry](https://github.com/TheBeege))
 
 # Join Us
 
