@@ -35,5 +35,5 @@ Django로 만든 [프로젝트](https://github.com/punkyoon/coding-night-live) �
 ### 2.양혜연 [@hyeyeon](https://github.com/imyeonn) | [발표자료](https://www.slideshare.net/HyeyeonYang/ss-73470576)
 파알못의 크롤러 이해하기
 
-### 3.Bryan Beege Berry [@thebeege](https://github.com/TheBeege) | [Facebook](https://www.facebook.com/LearnTeachCodeSeoul/)
+### 3.Bryan Beege Berry [@thebeege](https://github.com/TheBeege) | [Facebook](https://www.facebook.com/LearnTeachCodeSeoul/) | [발표자료](https://www.slideshare.net/TheBeege/django-isnt-mean-73567960)
 Django's not MEAN
