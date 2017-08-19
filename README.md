@@ -1,11 +1,9 @@
-# 장고걸스서울 월례 세미나 (Dream. Code. Create.)
+# 장고걸스서울 10월 월례 세미나 (Dream. Code. Create.)
 English Speakers can read here: [Eng](https://github.com/DjangoGirlsSeoul/seminar/blob/master/readme-en.md)
 
-장고걸스서울은 [마이크로소프트 개발커뮤니티 프로그램 '멜팅팟'](https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)의 후원을 받아 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django 웹 프레임워크로 웹 사이트를 만들고 싶은 프로그래밍 입문자들 대상으로 진행합니다. 참가비는 없으며, 장고걸스의 철학을 지지하는 분들의 자원봉사로 진행됩니다. 장고걸스서울과 함께 코딩에 대한 열정과 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
+장고걸스서울은 정기적인 기술 교류와 경험의 공유를 위해 *'Dream Code Create'*라는 주제로 월례 세미나를 진행하고 있습니다. 이번 7회 월례 세미나는 WeWork의 장소 협조를 통해 진행하게 되었습니다. 이제 막 파이썬 프로그래밍을 시작했거나, Django 웹 프레임워크로 웹 사이트를 만들고 싶은 프로그래밍 입문자들 대상으로 진행합니다. 참가비는 없으며, 장고걸스의 철학을 지지하는 분들의 자원봉사로 진행됩니다. 장고걸스서울과 함께 코딩에 대한 열정과 의지를 불태워보세요! `me = Member.objects.create(name="my name")!`
 
-[![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2016-5/meltingpot/default.aspx)
-
-## 2016년 세미나 일정
+## 이전 세미나 히스토리
 - [제1회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([박진우](https://www.jinpark.net/), 박조은, [최현묵](http://jellyms.kr/), 김현미)
 - [제2회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-08) : 2016. 08. 20. SAT 2-5PM (양미림, Krummel Amanda, 안정민, 정광윤)
 - [제3회](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-09) : 2016. 09. 25. SUN 3-5PM (김은지, 이소은, 이수진)
