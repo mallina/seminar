@@ -1,9 +1,9 @@
 # Metling Pot Seminar Series (Dream. Code. Create.)
 한국어 사용자는 다음 링크에서 읽어주세요 : [Kor](https://github.com/DjangoGirlsSeoul/seminar/blob/master/README.md)
 
-This seminar series is sponsored by Microsoft 'Melting pot' program under the slogan *'Dream Code Create'*. The purpose of this seminar is to present contents related to Python, Django and web developement in general. There is no participation fee and all seminars are run by a group of professionals and volunteers who want to see more women in tech, by making technology more approachable, simpler and user-friendlier. We welcome you to join Melting Pot Seminar. `me = Member.objects.create(name="my name")!`
+This seminar series is taking place in Euljiro's WeWork event space, under the slogan *'Dream Code Create'*. The purpose of this seminar is to present contents related to Python, Django and web developement in general. It's ment for those who woud like to start programing as well s those who have already started making sites using Django and would like to take their careers to the next level. 
+There is no participation fee and all seminars are run by a group of professionals and volunteers who want to see more women in tech, by making technology more approachable, simpler and user-friendlier. We welcome you to join Melting Pot Seminar. `me = Member.objects.create(name="my name")!`
 
-[![Microsoft LOGO](http://4.bp.blogspot.com/-fbqmrO-y-6o/UDZv0b2tn6I/AAAAAAAAL5g/sI1SPQFjDdw/s1600/Microsoft+logo+2012.png)](https://www.microsoft.com/ko-kr/events/2014/meltingpot/)
 
 ## 2016 Seminar sketch
 - [1st](https://github.com/DjangoGirlsSeoul/seminar/tree/master/2016-07) : 2016. 07. 16. SAT 2-5PM ([Jin Park](https://www.jinpark.net/), Joeun Park, [Jerry Choi](http://jellyms.kr/), Hyunmi Kim)
